@@ -1,5 +1,8 @@
 Employee Salary & Department Insights (SQL)
 
+## Dashboard Preview
+![Dashboard Preview](employee_dashboard_preview.png)
+
 Overview
 This project analyzes employee salary data to extract department-level insights and identify salary distribution patterns using SQL.
 
